@@ -1,9 +1,11 @@
 # Covid Thesis
-
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/RebecaApostu/CovidThesis/blob/master/01.Preprocess%20and%20Anonymize.ipynb)
 [![Binder](https://mybinder.org/badge_logo.svg) 01.Preprocess and Anonymize](https://mybinder.org/v2/gh/RebecaApostu/CovidThesis/master?filepath=01.Preprocess%20and%20Anonymize.ipynb) Preprocess raw data, and anonymize into an analytical data table fit for analysis. 
 
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/RebecaApostu/CovidThesis/blob/master/02.Timeline%20Analysis.ipynb)
 [![Binder](https://mybinder.org/badge_logo.svg) 02.Timeline Analysis](https://mybinder.org/v2/gh/RebecaApostu/CovidThesis/master?filepath=02.Timeline%20Analysis.ipynb) Analysis for timeline of bookings and cancellations. 
 
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/RebecaApostu/CovidThesis/blob/master/03.Mapping%20Exploration.ipynb)
 [![Binder](https://mybinder.org/badge_logo.svg) 03.Mapping Exploration](https://mybinder.org/v2/gh/RebecaApostu/CovidThesis/master?filepath=03.Mapping%20Exploration.ipynb) Analysis of geolocation data on maps. 
 
 
