@@ -1,5 +1,8 @@
 # Covid Thesis
 
+[![Binder](https://mybinder.org/badge_logo.svg) 01.Preprocess and Anonymize](https://mybinder.org/v2/gh/RebecaApostu/CovidThesis/master?filepath=01.Preprocess%20and%20Anonymize.ipynb) 
+
+
 ## Abstract
 
 The emergence of Covid-19 caused large-scale transmissions around the world which transformed
