@@ -19,3 +19,5 @@ between official news and the decision to cancel the booking. The study serves a
 in the hospitality industry and sets the basis for further research by providing an overview of
 the market conditions in Copenhagen under Covid-19 circumstances. Various limitations and
 reflections on the findings are discussed.
+
+## Citation
