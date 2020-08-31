@@ -1,6 +1,7 @@
 # Covid Thesis
 
 [![Binder](https://mybinder.org/badge_logo.svg) 01.Preprocess and Anonymize](https://mybinder.org/v2/gh/RebecaApostu/CovidThesis/master?filepath=01.Preprocess%20and%20Anonymize.ipynb) Preprocess raw data, and anonymize into an analytical data table fit for analysis. 
+[![Binder](https://mybinder.org/badge_logo.svg) 02.Timeline Analysis](https://mybinder.org/v2/gh/RebecaApostu/CovidThesis/master?filepath=02.Timeline%20Analysis.ipynb) Analysis for timeline of bookings and cancellations. 
 
 
 ## Abstract
