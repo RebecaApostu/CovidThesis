@@ -4,3 +4,4 @@ plotly
 geopy
 ipywidgets
 ipyleaflet
+pandas_profiling
