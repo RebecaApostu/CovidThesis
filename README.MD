@@ -4,6 +4,8 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg) 02.Timeline Analysis](https://mybinder.org/v2/gh/RebecaApostu/CovidThesis/master?filepath=02.Timeline%20Analysis.ipynb) Analysis for timeline of bookings and cancellations. 
 
+[![Binder](https://mybinder.org/badge_logo.svg) 03.Mapping Exploration](https://mybinder.org/v2/gh/RebecaApostu/CovidThesis/master?filepath=03.Mapping%20Exploration.ipynb) Analysis of geolocation data on maps. 
+
 
 ## Abstract
 
