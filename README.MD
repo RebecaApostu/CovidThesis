@@ -1,5 +1,7 @@
 # Covid Thesis
 
+## Abstract
+
 The emergence of Covid-19 caused large-scale transmissions around the world which transformed
 the ordinary course of life and business operations. This paper aims to provide an
 exploration of the effects of Covid-19 on Airbnb digital platform on its operating principles
