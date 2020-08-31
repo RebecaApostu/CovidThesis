@@ -1,0 +1,6 @@
+pandas
+seaborn
+plotly
+geopy
+ipywidgets
+ipyleaflet
